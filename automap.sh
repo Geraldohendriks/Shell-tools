@@ -21,6 +21,3 @@ echo "whois is running on ip: $1"
 whois "$1" >> "map-of-$1.txt"
 
 
-
-
-# 91.184.0.22
